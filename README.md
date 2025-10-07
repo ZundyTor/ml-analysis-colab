@@ -49,7 +49,7 @@ La detección temprana y precisa de fraudes en transacciones con tarjetas de cr�
 
 ## Enlaces al notebook en Google Colab
 
-- [Haz clic aquí para ver y ejecutar el notebook en Google Colab](ENLACE_PUBLICO_COLAB_AQUI)
+- [Haz clic aquí para ver y ejecutar el notebook en Google Colab](https://colab.research.google.com/drive/15W_YEjr2ZD9MYIx9HzSuM44_wjeD-uYe?usp=sharing)
 
 ---
 
